@@ -1,4 +1,4 @@
-# Celcius-para-fahrenheit
+# Conversor de temperatura
 Portugol Studio
 
     programa {
